@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi, I'm Marco Puig
 
-I'm Marco Puig, a passionate solo indie developer and proud member of FAU Class of 2025 - Go Owls! 🦉 In my free time, you'll find me on my bike, immersed in creating games, developing software, and crafting VR experiences.
+I am a passionate solo indie developer and proud member of FAU Class of 2025 - Go Owls! 🦉 In my free time, you'll find me on my bike, immersed in creating games, developing software, and crafting VR experiences.
 
 #### 🔧 Skills
 
@@ -11,7 +11,7 @@ I'm Marco Puig, a passionate solo indie developer and proud member of FAU Class 
 
 #### 🌱 Currently
 
-I'm currently working on [Rock Life: The Rock Simulator and some other special projects], and always eager to explore new technologies and expand my skill set.
+I'm currently working on Rock Life: The Rock Simulator and some other special projects, and always eager to explore new technologies and expand my skill set.
 
 #### 👯 Collaboration
 
@@ -27,4 +27,4 @@ Feel free to reach out if you have any questions about game development, softwar
 
 #### 📫 How to Reach Me
 
-You can reach me via email at [dmarco1802@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/marco-puig).
+You can reach me via [email](dmarco1802@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/marco-puig).
