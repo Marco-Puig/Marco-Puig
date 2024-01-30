@@ -11,7 +11,7 @@ I am a passionate solo indie developer and proud member of FAU Class of 2025 - G
 
 #### 🌱 Currently
 
-I'm currently working on Rock Life: The Rock Simulator and some other special projects, and always eager to explore new technologies and expand my skill set.
+I'm currently working on [Rock Life: The Rock Simulator](https://store.steampowered.com/app/2056560/Rock_Life_The_Rock_Simulator) and some other special projects, and always eager to explore new technologies and expand my skill set.
 
 #### 👯 Collaboration
 
