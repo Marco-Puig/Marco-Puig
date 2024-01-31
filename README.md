@@ -11,16 +11,12 @@ I am a passionate solo indie developer and proud member of FAU Class of 2025 - G
 
 #### 🌱 Currently
 
-I'm currently working on [Rock Life: The Rock Simulator](https://store.steampowered.com/app/2056560/Rock_Life_The_Rock_Simulator) and some other special projects, and always eager to explore new technologies and expand my skill set.
+I'm currently working on a game called [Rock Life](https://store.steampowered.com/app/2056560/Rock_Life_The_Rock_Simulator) and some other special projects, and always eager to explore new technologies and expand my skill set.
 
 #### 👯 Collaboration
 
-I'm open to collaboration on interesting projects, especially in the realms of game development and software engineering. If you have an exciting project in mind, let's connect!
+I'm open to collaboration on interesting projects, especially in the realms of game development and software engineering. If you have an exciting project in mind, let's connect! I'm always looking to learn and grow. If you have expertise in anything C# related, I'd greatly appreciate your insights and guidance.
 
-#### 🤔 Seeking Help
-
-I'm always looking to learn and grow. If you have expertise in anything C# related, I'd greatly appreciate your insights and guidance.
-
-#### 📫 How to Reach Me
+#### 📫 Contact Me
 
 You can reach me via [email](dmarco1802@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/marco-puig).
