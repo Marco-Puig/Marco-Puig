@@ -15,7 +15,7 @@ I'm currently working on a game called [Rock Life](https://store.steampowered.co
 
 #### 👯 Collaboration
 
-I'm open to collaboration on interesting projects, especially in the realms of game development and software engineering. If you have an exciting project in mind, let's connect! I'm always looking to learn and grow. If you have expertise in anything C# related, I'd greatly appreciate your insights and guidance.
+I'm open to collaboration on interesting projects, especially in the realms of game development and web development. If you have an exciting project in mind, let's connect! I'm always looking to learn and grow. If you have expertise in anything C# related, I'd greatly appreciate your insights and guidance.
 
 #### 📫 Contact Me
 
