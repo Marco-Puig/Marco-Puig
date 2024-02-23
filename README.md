@@ -4,7 +4,7 @@ I am a passionate solo indie developer and a student at FAU for Class of 2025 - 
 
 #### 🔧 Skills
 
-- **Game Development:** Unity, Unreal Engine, Godot, MonoGame, FNA/XNA, LibGDX
+- **Game Development:** Unity, Unreal Engine, Godot, MonoGame, FNA/XNA, LibGDX, Raylib
 - **Programming Languages:** C#, Java, Python, GDScript, C/C++, Swift, Dart, HTML5, CSS, JavaScript, Node.js, React
 
 #### 🌱 Currently
