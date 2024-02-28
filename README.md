@@ -9,7 +9,8 @@
 - **Programming Languages:** C#, Java, Python, GDScript, C/C++, Swift, Dart, HTML5, CSS, JavaScript, Node.js, React
 
 #### Favorite Projects 🖥
-- C# - [FloatEngine](https://github.com/Marco-Puig/FloatEngine) 
+- C# - [FloatEngine](https://github.com/Marco-Puig/FloatEngine)
+- React - [OpenNote](https://github.com/Marco-Puig/OpenNote)
 - Unity & Godot - [Rock Life](https://store.steampowered.com/app/2056560/Rock_Life_The_Rock_Simulator) 
 - SwiftUI - [CineMate](https://github.com/Marco-Puig/CineMate) 
 - Python - [SteamSync](https://github.com/Marco-Puig/SteamSync) 
