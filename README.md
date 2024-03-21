@@ -10,7 +10,7 @@
 
 #### Favorite Projects 🖥
 - C# - [FloatEngine](https://github.com/Marco-Puig/FloatEngine)
-- React - [OpenNote](https://github.com/Marco-Puig/OpenNote)
+- React - [OpenNote](https://opennote.pages.dev/)
 - Unity & Godot - [Rock Life](https://store.steampowered.com/app/2056560/Rock_Life_The_Rock_Simulator) 
 - SwiftUI - [CineMate](https://github.com/Marco-Puig/CineMate) 
 - Python - [SteamSync](https://github.com/Marco-Puig/SteamSync) 
