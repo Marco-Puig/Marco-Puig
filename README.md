@@ -1,6 +1,6 @@
 ### Hi, I'm Marco Puig 👋
 
-- I am a passionate solo indie developer and a student at FAU for Class of 2025 - Go Owls! 🦉 
+- I am a passionate solo indie developer and a recent graduate from FAU for Class of 2025 - Go Owls! 🦉 
 - In my free time, you'll find me creating games, developing web apps, and working on VR experiences.
 
 #### Skills 🔧 
