@@ -9,9 +9,9 @@
 - **Programming Languages:** C#, Java, Python, GDScript, C/C++, Swift, Dart, HTML5, CSS, JavaScript, Node.js, React
 
 #### Favorite Projects 🖥
+- Javascript - [Universal Studios - Drop Movie Kiosk](https://www.youtube.com/watch?v=v6mQXImJ-zY)
+- ReactJS - [OpenNote](https://opennote.pages.dev/)
+- Unity & Godot - [Rock Life](https://store.steampowered.com/app/2056560/Rock_Life_The_Rock_Simulator)
 - C/C++ - [ChiselEngine](https://github.com/Marco-Puig/ChiselEngine) 
-- React - [OpenNote](https://opennote.pages.dev/)
-- Unity & Godot - [Rock Life](https://store.steampowered.com/app/2056560/Rock_Life_The_Rock_Simulator) 
 - C# - [FloatEngine](https://github.com/Marco-Puig/FloatEngine)
-- Python - [SteamSync](https://github.com/Marco-Puig/SteamSync) 
 
